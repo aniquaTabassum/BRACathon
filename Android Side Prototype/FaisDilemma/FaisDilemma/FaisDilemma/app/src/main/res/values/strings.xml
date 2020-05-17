@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaisDilemma</string>
+    <string name="title_activity_scroll_view">ScrollView</string>
+</resources>
